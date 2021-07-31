@@ -1,5 +1,5 @@
 # Smarkio
-<h1>Teste prático SMARKIO</h1>
+<h1>💻 Teste prático</h1>
 
 > Objetivo 
 Desenvolver uma aplicação web em Node.js com banco de dados MySQL. A aplicação
